@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Documentos\GitHub\Tarea-Extraclase-2-2022155662\Problema2\bin\Debug\net8.0\Problema2.exe
+C:\Users\Dell\OneDrive\Documentos\GitHub\Tarea-Extraclase-2-2022155662\Problema2\bin\Debug\net8.0\Problema2.deps.json
+C:\Users\Dell\OneDrive\Documentos\GitHub\Tarea-Extraclase-2-2022155662\Problema2\bin\Debug\net8.0\Problema2.runtimeconfig.json
+C:\Users\Dell\OneDrive\Documentos\GitHub\Tarea-Extraclase-2-2022155662\Problema2\bin\Debug\net8.0\Problema2.dll
+C:\Users\Dell\OneDrive\Documentos\GitHub\Tarea-Extraclase-2-2022155662\Problema2\bin\Debug\net8.0\Problema2.pdb
+C:\Users\Dell\OneDrive\Documentos\GitHub\Tarea-Extraclase-2-2022155662\Problema2\obj\Debug\net8.0\Problema2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Documentos\GitHub\Tarea-Extraclase-2-2022155662\Problema2\obj\Debug\net8.0\Problema2.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Documentos\GitHub\Tarea-Extraclase-2-2022155662\Problema2\obj\Debug\net8.0\Problema2.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Documentos\GitHub\Tarea-Extraclase-2-2022155662\Problema2\obj\Debug\net8.0\Problema2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Documentos\GitHub\Tarea-Extraclase-2-2022155662\Problema2\obj\Debug\net8.0\Problema2.sourcelink.json
+C:\Users\Dell\OneDrive\Documentos\GitHub\Tarea-Extraclase-2-2022155662\Problema2\obj\Debug\net8.0\Problema2.dll
+C:\Users\Dell\OneDrive\Documentos\GitHub\Tarea-Extraclase-2-2022155662\Problema2\obj\Debug\net8.0\refint\Problema2.dll
+C:\Users\Dell\OneDrive\Documentos\GitHub\Tarea-Extraclase-2-2022155662\Problema2\obj\Debug\net8.0\Problema2.pdb
+C:\Users\Dell\OneDrive\Documentos\GitHub\Tarea-Extraclase-2-2022155662\Problema2\obj\Debug\net8.0\Problema2.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Documentos\GitHub\Tarea-Extraclase-2-2022155662\Problema2\obj\Debug\net8.0\ref\Problema2.dll
